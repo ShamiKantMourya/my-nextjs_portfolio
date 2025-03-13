@@ -27,7 +27,7 @@ const Home = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
           >
-            John Doe
+            Shami Kant Mourya
           </motion.h1>
 
           <motion.h2
